@@ -1,0 +1,21 @@
+id_posicao,id_produto,nome,peso_kg,freq_saida,dist_porta,peso_max_kg
+A-1-01,P009,Trena 5m,15.07,4249,2,200
+A-1-02,P020,Caixa de Luz,7.35,2388,4,200
+A-2-01,P014,Lixa 100,5.39,2272,5,80
+A-1-03,P015,Solvente 5L,4.63,1002,6,200
+A-2-02,P016,Lampada LED 9W,4.67,967,7,80
+A-1-04,P010,Furadeira,17.73,924,8,200
+A-2-03,P013,Rolo de Pintura,20.83,892,9,80
+A-1-05,P008,Alicate Universal,21.67,850,10,200
+A-2-04,P003,Arruela,18.33,849,11,80
+B-1-01,P012,Pincel 2pol,24.25,507,12,200
+A-2-05,P007,Chave de Fenda,1.55,495,13,80
+B-1-02,P002,Porca M8,23.77,488,14,200
+B-2-01,P019,Fio 2.5mm,10.86,452,15,80
+B-1-03,P018,Disjuntor 20A,13.17,433,16,200
+B-2-02,P005,Bucha 8mm,3.98,422,17,80
+B-1-04,P011,Tinta Branca 18L,0.61,406,18,200
+B-2-03,P001,Parafuso M8,9.43,392,19,80
+B-1-05,P006,Martelo 500g,3.98,157,20,200
+B-2-04,P017,Tomada 10A,7.68,124,21,80
+B-2-05,P004,Prego 17x21,15.01,106,23,80

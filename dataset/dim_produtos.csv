@@ -1,0 +1,21 @@
+id_produto,nome,peso_kg,altura_cm,largura_cm,comprimento_cm
+P001,Parafuso M8,9.43,32,39,27
+P002,Porca M8,23.77,20,18,44
+P003,Arruela,18.33,19,21,25
+P004,Prego 17x21,15.01,7,40,20
+P005,Bucha 8mm,3.98,41,44,22
+P006,Martelo 500g,3.98,11,8,28
+P007,Chave de Fenda,1.55,25,6,30
+P008,Alicate Universal,21.67,13,10,29
+P009,Trena 5m,15.07,43,8,33
+P010,Furadeira,17.73,22,33,19
+P011,Tinta Branca 18L,0.61,8,22,5
+P012,Pincel 2pol,24.25,29,30,29
+P013,Rolo de Pintura,20.83,18,38,11
+P014,Lixa 100,5.39,13,14,13
+P015,Solvente 5L,4.63,30,40,28
+P016,Lampada LED 9W,4.67,6,18,5
+P017,Tomada 10A,7.68,24,35,12
+P018,Disjuntor 20A,13.17,32,19,28
+P019,Fio 2.5mm,10.86,11,12,15
+P020,Caixa de Luz,7.35,12,18,21

@@ -1,7 +1,7 @@
 Algoritmos Genéticos (AG) são inspirados na evolução biológica — seleção natural, cruzamento e mutação.
 Eles não são busca tradicional — são mais uma busca por otimização, onde você evolui uma população de soluções ao longo de gerações até encontrar a melhor.
 
-Como encaixa no que você já viu:
+Como encaixa:
 IA Simbólica
 ├── Busca Cega          → BFS, DFS
 ├── Busca Heurística    → Gulosa, A*
